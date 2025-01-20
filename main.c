@@ -3,7 +3,12 @@ int main()
   int i;
   for (i = 0; i < 10; i++)
   {
-    printf("School\n");
+    printf("Hello, School\n");
   }
-  return 0;
+  return 32;
 }
+int main() 
+{
+    int i;
+for (i = 0; i < 10; i++)
+    
