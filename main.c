@@ -29,20 +29,4 @@ int main()
 }
 printf("Hello, School\n");
 {
-printf("Hello, School\n");
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
+printf("Hello, School\n"); 
