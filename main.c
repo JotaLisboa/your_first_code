@@ -5,10 +5,44 @@ int main()
   {
     printf("Hello, School\n");
   }
-  return 32;
+  return 0;
 }
-int main() 
+
+int main()
 {
-    int i;
-for (i = 0; i < 10; i++)
-    
+  int i;
+  for (i = 0; i < 10; i++)
+  {
+    printf("Hello, School\n");
+  }
+  return 0;
+}
+
+int main()
+{
+  int i;
+  for (i = 0; i < 10; i++)
+  {
+    printf("Hello, School\n");
+  }
+  return 0;
+}
+printf("Hello, School\n");
+{
+printf("Hello, School\n");
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
